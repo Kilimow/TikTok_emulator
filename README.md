@@ -16,4 +16,4 @@ TikTok repackaged apk that's working on Android emulator. Perfectly for multiacc
 
 
 ## Contact
-### telegram - @gojikohu
+### telegram - [@gojikohu](https://t.me/gojikohu)
